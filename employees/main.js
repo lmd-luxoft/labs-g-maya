@@ -5,3 +5,4 @@ import { runUI, addEmployeeUI, openTab, searchEmployeeUI } from './employees/ui'
         window.openTab = openTab;
         window.searchEmployeeUI = searchEmployeeUI;
         runUI();
+
